@@ -36,7 +36,7 @@ npm outdated
 
 If there are outdated dependencies:
 `
-npm updated
+npm update
 `
 
 To check and update packages in package.json:
